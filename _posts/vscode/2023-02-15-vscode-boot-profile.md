@@ -2,9 +2,9 @@
 title:  "[VSCODE] VSCODE에서 Spring Boot Profile 사용"
 
 categories:
-  - IDE
+  - ide
 tags:
-  - [IDE, VSCODE]
+  - [ide, vscode]
 
 toc: true
 toc_sticky: true

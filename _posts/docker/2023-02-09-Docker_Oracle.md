@@ -3,9 +3,9 @@ title:  "[Docker] 도커로 Oracle 12c 설치"
 excerpt: "도커로 Oracle 12c 설치하자. "
 
 categories:
-  - Docker
+  - docker
 tags:
-  - [Docker, WSL]
+  - [docker, wsl]
 
 toc: true
 toc_sticky: true
